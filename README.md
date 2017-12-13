@@ -20,5 +20,6 @@
 ![画像](https://www.google.jp)
 
 |header1|header2|header3|
+|:--|:--:|:--:|
 |sss|ssss|rrr|
 |retee|rr|rrr|
